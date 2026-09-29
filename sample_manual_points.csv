@@ -1,0 +1,2 @@
+scientificName,decimalLatitude,decimalLongitude,eventDate,data_citation,data_origin,data_curator,evidence,identifier,coordinateUncertaintyInMeters,review_status,include_for_aoo_eoo,notes
+Genista sanabrensis,42.12345,-6.12345,2024-06-17,Alfaro-Saiz 2024,trabajo de campo,Alfaro-Saiz Estrella,observación de campo,campo_001,25,aceptado,sí,población confirmada

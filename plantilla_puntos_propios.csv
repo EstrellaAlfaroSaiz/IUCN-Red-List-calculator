@@ -1,0 +1,2 @@
+scientificName,decimalLatitude,decimalLongitude,eventDate,data_citation,data_origin,data_curator,evidence,identifier,coordinateUncertaintyInMeters,review_status,include_for_aoo_eoo,notes
+Nombre científico,42.000000,-6.000000,2026-01-01,,trabajo de campo,Curador del dato,pliego/testigo,ID_001,25,aceptado,sí,comentario opcional
